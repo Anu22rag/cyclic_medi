@@ -39,8 +39,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ npm start
     
-### Project URL link : will give after hosting
+### Project URL link : {https://drive.google.com/drive/folders/1DRqLnPcgcVCgE058uOy3U5OxKSrmHAHm?usp=sharing}
     
     
-### SRS document + ER diagram + DFD + Use Case diagram link : will share my drive link hare later
+### SRS document + ER diagram + DFD +  : drive ---link :{https://drive.google.com/drive/folders/1DRqLnPcgcVCgE058uOy3U5OxKSrmHAHm?usp=sharing}
 
