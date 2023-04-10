@@ -39,7 +39,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ npm start
     
-### Project URL link : {https://github.com/Anu22rag/cyclic_medi/tree/master}
+### Project URL link : {https://github.com/Anu22rag/cyclic_medi.git}
     
     
 ### SRS document + ER diagram + DFD +  : drive ---link :{https://drive.google.com/drive/folders/1DRqLnPcgcVCgE058uOy3U5OxKSrmHAHm?usp=sharing}
